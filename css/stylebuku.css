@@ -1,0 +1,17 @@
+buku {
+	background: #eee;
+	color: #333;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+
+#wrapper {
+	background: #fff;
+	width: 1100px;
+	margin: 20px auto;
+}
+
+#wrapper header {
+	background: #232323;
+	padding: 20px;
+}
