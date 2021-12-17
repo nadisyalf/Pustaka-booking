@@ -43,13 +43,13 @@ class NebulaToko extends CI_Controller
 
             if ($this->input->post('merk') == 'Nike') {
                 $data['harga'] = 375000;
-            } elseif ($this->input->post('merk') == 'Adidas') {
+            } elseif ($this->input->post('merk') == 'Vans') {
                 $data['harga'] = 300000;
-            } elseif ($this->input->post('merk') == 'Kickers') {
+            } elseif ($this->input->post('merk') == 'Compas') {
                 $data['harga'] = 250000;
             } elseif ($this->input->post('merk') == 'Eiger') {
                 $data['harga'] = 275000;
-            } elseif ($this->input->post('merk') == 'Bucherri') {
+            } elseif ($this->input->post('merk') == 'Convers') {
                 $data['harga'] = 400000;
             }
 
